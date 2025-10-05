@@ -1,7 +1,7 @@
 ***Projeto modelagem de Dados - Engenharia de Dados:***
 ---
 
-Este repositório contém a modelagem de dados de uma loja fictícia de venda de bicicletas, que realiza tanto operações transacionais do dia a dia (como vendas, cadastros, estoque), quanto análises gerenciais (como total de vendas por mês, por categoria, por região etc).
+Este repositório contém a modelagem de dados de uma loja fictícia de venda de bicicletas, que realiza tanto operações transacionais do dia a dia (como vendas, cadastros, estoque), quanto análises gerenciais (como total de vendas por mês, por estado, por gênero etc).
 
 Foram criados dois modelos distintos:
 
@@ -44,6 +44,10 @@ Cadastro de clientes, produtos e itens de pedidos.
 
 Relacionamento entre essas tabelas com chaves estrangeiras.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/688db944-9f3e-4c9b-88db-e49db57160a8" width="800px" />
+</p>
+
 ---
 🔸 Banco de Dados Dimensional (OLAP)
 
@@ -80,6 +84,10 @@ Produto (produto, preço)
 Cliente (estado, sexo, status)
 
 Tempo (ano, mês, dia)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/688db944-9f3e-4c9b-88db-e49db57160a8" width="800px" />
+</p>
 
 ---
 📁 Estrutura do Projeto

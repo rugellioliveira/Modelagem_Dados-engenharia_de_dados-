@@ -9,6 +9,7 @@ Foram criados dois modelos distintos:
 
 📊 Modelo Dimensional (OLAP) – para análise de dados e apoio à tomada de decisão.
 
+---
 🔹 Banco de Dados Relacional (OLTP)
 ✅ O que é:
 
@@ -42,6 +43,7 @@ Cadastro de clientes, produtos e itens de pedidos.
 
 Relacionamento entre essas tabelas com chaves estrangeiras.
 
+---
 🔸 Banco de Dados Dimensional (OLAP)
 ✅ O que é:
 
@@ -77,6 +79,8 @@ Cliente (estado, sexo, status)
 
 Tempo (ano, mês, dia)
 
+---
+```
 Modelagem_Dados_Engenharia_Dados/
 ├── modelo-relacional/
 │   ├── 1.CreateTable.sql
@@ -95,3 +99,4 @@ Modelagem_Dados_Engenharia_Dados/
 │   └── diagrama-dimensional.png
 │
 └── README.md
+```

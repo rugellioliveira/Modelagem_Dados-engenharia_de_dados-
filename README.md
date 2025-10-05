@@ -11,6 +11,7 @@ Foram criados dois modelos distintos:
 
 ---
 🔹 Banco de Dados Relacional (OLTP)
+
 ✅ O que é:
 
 Um banco de dados relacional armazena informações em tabelas interligadas por relacionamentos (chaves primárias e estrangeiras). É usado principalmente para registrar transações de forma segura, rápida e confiável.
@@ -45,6 +46,7 @@ Relacionamento entre essas tabelas com chaves estrangeiras.
 
 ---
 🔸 Banco de Dados Dimensional (OLAP)
+
 ✅ O que é:
 
 Um banco de dados dimensional é estruturado para facilitar consultas analíticas, geralmente em modelos estrela ou floco de neve. Ele organiza os dados em uma tabela de fato (eventos medidos, como vendas) conectada a várias tabelas de dimensões (como tempo, cliente, produto).

@@ -1,4 +1,4 @@
-***Projeto modelagem de Dados - Engenharia de Dados***
+***Projeto modelagem de Dados - Engenharia de Dados:***
 ---
 
 Este repositório contém a modelagem de dados de uma loja fictícia de venda de bicicletas, que realiza tanto operações transacionais do dia a dia (como vendas, cadastros, estoque), quanto análises gerenciais (como total de vendas por mês, por categoria, por região etc).
@@ -80,6 +80,7 @@ Cliente (estado, sexo, status)
 Tempo (ano, mês, dia)
 
 ---
+📁 Estrutura do Projeto
 ```
 Modelagem_Dados_Engenharia_Dados/
 ├── modelo-relacional/

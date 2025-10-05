@@ -45,7 +45,7 @@ Cadastro de clientes, produtos e itens de pedidos.
 Relacionamento entre essas tabelas com chaves estrangeiras.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/688db944-9f3e-4c9b-88db-e49db57160a8" width="800px" />
+  <img src="https://github.com/user-attachments/assets/c212cea9-62df-4fbb-867a-ef42aeed7d97" width="800px" />
 </p>
 
 ---

@@ -86,7 +86,7 @@ Cliente (estado, sexo, status)
 Tempo (ano, mês, dia)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/688db944-9f3e-4c9b-88db-e49db57160a8" width="800px" />
+  <img src="https://github.com/user-attachments/assets/a7993a0f-75d9-45ad-b49b-a40fd421527d" width="800px" />
 </p>
 
 ---
